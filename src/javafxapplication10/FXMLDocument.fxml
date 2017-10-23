@@ -10,7 +10,7 @@
 <?import javafx.scene.layout.RowConstraints?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane id="AnchorPane" prefHeight="435.0" prefWidth="374.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.111" fx:controller="javafxapplication10.FXMLDocumentController">
+<AnchorPane id="AnchorPane" prefHeight="435.0" prefWidth="374.0" style="-fx-background-color: #b299a5;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="javafxapplication10.FXMLDocumentController">
    <children>
       <Label fx:id="label" layoutX="136.0" layoutY="130.0" minHeight="16" minWidth="69" />
       <Label layoutX="94.0" layoutY="37.0" text="Welcome To Moklet Bank">
